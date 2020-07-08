@@ -1,0 +1,41 @@
+Drank water At: 2019-08-24 16:43:13.843268 
+Eyes Relaxed at: 2019-08-24 16:43:17.233916 
+Drank water At: 2019-08-24 16:43:25.400075 
+Physical Activity drank at: 2019-08-24 16:43:27.486299 
+Eyes Relaxed at: 2019-08-24 16:43:29.621033 
+Drank water At: 2019-08-24 16:43:33.179712 
+Drank water At: 2019-08-24 16:43:40.963064 
+Drank water At: 2019-08-24 16:46:19.191052 
+Eyes Relaxed at: 2019-08-24 16:46:24.579120 
+Drank water At: 2019-08-24 16:46:27.392677 
+Physical Activity drank at: 2019-08-24 16:46:33.878284 
+Drank water At: 2019-08-24 16:49:37.233920 
+Physical Activity drank at: 2019-08-24 16:49:43.480248 
+Drank water At: 2019-08-24 16:49:48.001725 
+Eyes Relaxed at: 2019-08-24 16:50:10.138786 
+Physical Activity drank at: 2019-08-24 16:50:12.717941 
+Drank water At: 2019-08-24 17:01:18.635445 
+Physical Activity drank at: 2019-08-24 17:01:33.752471 
+Drank water At: 2019-08-24 17:01:44.748759 
+Eyes Relaxed at: 2019-08-24 17:01:59.890389 
+Physical Activity drank at: 2019-08-24 17:02:05.821430 
+Drank water At: 2019-08-24 17:02:14.585402 
+Physical Activity drank at: 2019-08-24 17:02:18.493666 
+Drank water At: 2019-08-24 17:02:21.827439 
+Eyes Relaxed at: 2019-08-24 17:02:23.758617 
+Drank water At: 2019-08-24 17:03:44.886887 
+Physical Activity drank at: 2019-08-24 17:04:31.721702 
+Drank water At: 2019-08-24 17:04:50.837036 
+Drank water At: 2019-08-24 17:05:47.615237 
+Eyes Relaxed at: 2019-08-24 17:06:22.165130 
+Physical Activity drank at: 2019-08-24 17:06:25.640102 
+Drank water At: 2019-08-24 21:15:03.540044 
+Drank water At: 2019-08-24 21:15:47.490184 
+Physical Activity drank at: 2019-08-24 21:15:57.221652 
+Drank water At: 2019-08-24 21:16:20.036085 
+Eyes Relaxed at: 2019-08-24 21:16:40.629174 
+Drank water At: 2019-08-24 21:16:48.837184 
+Drank water At: 2019-08-24 21:37:17.162119 
+Eyes Relaxed at: 2019-08-24 21:37:25.758521 
+Drank water At: 2019-08-24 21:37:28.240284 
+Physical Activity drank at: 2019-08-24 21:37:31.167509 
